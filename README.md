@@ -46,3 +46,11 @@ Lambda
 
 Access Properties
 <img width="1277" height="759" alt="image" src="https://github.com/user-attachments/assets/aaced706-4a31-40f9-98b2-e9626f9ccf7e" />
+
+
+Member Functions
+<img width="1277" height="760" alt="image" src="https://github.com/user-attachments/assets/fa91bc1e-1b81-4d5a-a4bc-619abcad18d8" />
+
+
+Data Classes
+<img width="1277" height="760" alt="image" src="https://github.com/user-attachments/assets/91e6f764-8fef-4bc8-9deb-f088eab7c4da" />
