@@ -55,6 +55,9 @@ Member Functions
 Data Classes
 <img width="1277" height="760" alt="image" src="https://github.com/user-attachments/assets/91e6f764-8fef-4bc8-9deb-f088eab7c4da" />
 
+Copy Instance
+<img width="1279" height="758" alt="image" src="https://github.com/user-attachments/assets/65193396-ef15-49a4-9b48-be26c30422bb" />
+
 
 Compare Instance
 <img width="1279" height="759" alt="image" src="https://github.com/user-attachments/assets/08fee696-2e41-4427-b2dd-258cb9f0110e" />
