@@ -38,3 +38,7 @@ Default Parameter Values
 
 Functions without return
 <img width="1279" height="759" alt="image" src="https://github.com/user-attachments/assets/a4152b62-5aaf-49d2-8d11-879df1d0dedd" />
+
+
+Lambda
+<img width="1279" height="761" alt="image" src="https://github.com/user-attachments/assets/5e1d91cc-05ba-4ec6-91c3-d99ebe183984" />
