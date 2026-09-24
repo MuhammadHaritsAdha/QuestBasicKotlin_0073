@@ -65,3 +65,7 @@ Compare Instance
 
 Nullable Types
 <img width="1278" height="753" alt="image" src="https://github.com/user-attachments/assets/32fee6ed-606c-406b-bdc0-6f6ff4862d61" />
+
+
+Check for Null Values
+<img width="1279" height="761" alt="image" src="https://github.com/user-attachments/assets/3cbe0859-ab03-4f74-a4b4-b2af7e01b0c1" />
