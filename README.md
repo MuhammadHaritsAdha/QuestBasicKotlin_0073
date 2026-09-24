@@ -31,3 +31,7 @@ For
 
 Named Arguments
 <img width="1279" height="757" alt="image" src="https://github.com/user-attachments/assets/311f52ac-a9b1-4117-b52a-11d1f4fdda6f" />
+
+
+Default Parameter Values
+<img width="1278" height="762" alt="image" src="https://github.com/user-attachments/assets/138fd284-c5c3-4c09-9db3-860496f38b30" />
