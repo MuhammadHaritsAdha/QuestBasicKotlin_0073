@@ -9,3 +9,10 @@ List
 
 Set
 <img width="1279" height="757" alt="image" src="https://github.com/user-attachments/assets/9501b311-95cb-46e2-942e-f43a7eb30279" />
+
+
+Map
+<img width="1279" height="757" alt="image" src="https://github.com/user-attachments/assets/1d3af3be-3412-4577-8d61-93843b5d4e5e" />
+
+<img width="1279" height="757" alt="image" src="https://github.com/user-attachments/assets/950aa4da-3c4a-4b0e-827b-6a5099cec591" />
+
