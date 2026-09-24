@@ -73,3 +73,7 @@ Check for Null Values
 
 Use safe calls
 <img width="1279" height="759" alt="image" src="https://github.com/user-attachments/assets/36a6783b-deaf-4cde-8f9d-2b0d84160fb9" />
+
+
+Use Elvis operator
+<img width="1279" height="759" alt="image" src="https://github.com/user-attachments/assets/835e556c-7f45-4d9f-8d8f-6b9b32313373" />
