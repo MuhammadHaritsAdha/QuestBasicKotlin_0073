@@ -1,5 +1,5 @@
 # QuestBasicKotlin_0073
-Stirng Templates
+String Templates
 <img width="1279" height="761" alt="image" src="https://github.com/user-attachments/assets/61c4a5c0-e8f3-4bc6-a4df-d783b62fea12" />
 
 
@@ -23,3 +23,7 @@ If
 
 When
 <img width="1279" height="762" alt="image" src="https://github.com/user-attachments/assets/527de915-1910-41f5-ac71-7f57b6e9e028" />
+
+
+For
+<img width="1279" height="761" alt="image" src="https://github.com/user-attachments/assets/909938b2-21e4-45fe-9f77-cb058909b2be" />
