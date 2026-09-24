@@ -42,3 +42,7 @@ Functions without return
 
 Lambda
 <img width="1279" height="761" alt="image" src="https://github.com/user-attachments/assets/5e1d91cc-05ba-4ec6-91c3-d99ebe183984" />
+
+
+Access Properties
+<img width="1277" height="759" alt="image" src="https://github.com/user-attachments/assets/aaced706-4a31-40f9-98b2-e9626f9ccf7e" />
