@@ -27,3 +27,7 @@ When
 
 For
 <img width="1279" height="761" alt="image" src="https://github.com/user-attachments/assets/909938b2-21e4-45fe-9f77-cb058909b2be" />
+
+
+Named Arguments
+<img width="1279" height="757" alt="image" src="https://github.com/user-attachments/assets/311f52ac-a9b1-4117-b52a-11d1f4fdda6f" />
