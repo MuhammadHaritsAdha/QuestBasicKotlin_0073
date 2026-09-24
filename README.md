@@ -61,3 +61,7 @@ Copy Instance
 
 Compare Instance
 <img width="1279" height="759" alt="image" src="https://github.com/user-attachments/assets/08fee696-2e41-4427-b2dd-258cb9f0110e" />
+
+
+Nullable Types
+<img width="1278" height="753" alt="image" src="https://github.com/user-attachments/assets/32fee6ed-606c-406b-bdc0-6f6ff4862d61" />
